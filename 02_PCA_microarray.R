@@ -8,6 +8,9 @@ library(factoextra) # For PCA visualization
 # ---------------------------------
 # Load and Preprocess Data
 # ----------------------------------
+# Import dataset 
+# already normalized microarray expression data 
+# Here's the link to access the dataset: https://github.com/AI-Biotechnology-Bioinformatics/Microarray_Series_R
 
 data <- read.csv("gastric_cancer.csv", row.names = 1)
 
