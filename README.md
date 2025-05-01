@@ -14,10 +14,16 @@ Assession Id: [GSE79973](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse7
 You can access the normalized dataset directly from this repository:📁[Microarray_Series_R/gastric_cancer.csv](https://github.com/zehrhiz/Microarray_Series_R/tree/main)
 
 ## 📌 Topics Covered So Far:
-   ✔ 1_Microarray Data Analysis Overview in R – [Find the R script here](https://github.com/AI-Biotechnology-Bioinformatics/Microarray_Series_R/blob/main/01_Microarray_Overview.R)
+   ✔ 1_Microarray Data Analysis Overview in R – Find the R script [here](https://github.com/AI-Biotechnology-Bioinformatics/Microarray_Series_R/blob/main/01_Microarray_Overview.R) 
+💡
 
-   ✔ 2_PCA for Microarray Data in R - [Find the R script here](https://github.com/AI-Biotechnology-Bioinformatics/Microarray_Series_R/blob/main/02_PCA_microarray.R)
+   ✔ 2_PCA for Microarray Data in R. Script Access: Find the detailed code [here
+](https://github.com/AI-Biotechnology-Bioinformatics/Microarray_Series_R/blob/main/02_PCA_microarray.R) 🧬 
 
-   ✔ 3_Stepwise Logistic Regression in R -[Find the R script here](https://github.com/zehrhiz/Microarray_Series_R/blob/main/03_StepwiseSelection_microarray.R).
+   ✔ 3_Stepwise Logistic Regression in R -Find the R script [here](https://github.com/zehrhiz/Microarray_Series_R/blob/main/03_StepwiseSelection_microarray.R). 📌
 
-💡 More tutorials and workflows coming soon! Stay tuned for updates. 🚀
+   ✔ 4_ Recursive Features Elimination (RFE): R Script available for this analysis [here](https://github.com/AI-Biotechnology-Bioinformatics/Microarray_Series_R/blob/main/04_RFE_microarray.R) 📂
+
+   ✔ 5_Boruta Feature Sekection. Explore the full R workflow [here](https://github.com/AI-Biotechnology-Bioinformatics/Microarray_Series_R/blob/main/05_Boruta_Microarray.R) 🔗 
+
+🧪 More tutorials and workflows coming soon! Stay tuned for updates. 🚀
